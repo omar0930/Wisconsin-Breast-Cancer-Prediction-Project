@@ -9,7 +9,7 @@ This project focuses on predicting breast cancer diagnosis (benign or malignant)
 - **Data Visualization**: Provides insights through plots and statistical summaries.
 
 ## Dataset
-- **Source**: Wisconsin Breast Cancer Dataset.
+- **Source**: Wisconsin Breast Cancer Dataset (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 - **Features**: Includes cell nucleus characteristics such as radius, texture, perimeter, and smoothness.
 - **Target Variable**: Malignant (M) or Benign (B) diagnosis.
 
